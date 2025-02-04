@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎲 Watching chances cook", "Playing wit yo bitch"];
+const statusMessages = ["Playing Dea Hood", "Playing Hood Z", "Playing New Hood", "Fuckin yo bitch"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
@@ -95,7 +95,7 @@ login();
                     
 DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
 YouTube : https://www.youtube.com/@GlaceYT                         
-                                                                       
+                                                               
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
 
